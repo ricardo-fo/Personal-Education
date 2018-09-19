@@ -1,5 +1,5 @@
 def get_int(msg):
-	while True:
+	while True: 
 		try:
 			i = int(input(msg))
 			return i
