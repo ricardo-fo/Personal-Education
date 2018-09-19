@@ -1,2 +1,2 @@
-There are here solved exercises in Python of URI Judge.
+There are here solved exercises in Python of site URI Judge.
 https://www.urionlinejudge.com.br
