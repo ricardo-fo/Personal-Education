@@ -1,1 +1,1 @@
-Estudos feitos durante o curso HTML - Básico, pela Fundação Bradeso
+It's studies made while I was doing the course of HTML - Básico, at Fundação Bradesco
