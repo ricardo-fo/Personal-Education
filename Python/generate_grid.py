@@ -34,4 +34,4 @@ while row < rows:
 		line += s
 		column += 1
 	print(line)
-	row += 1
+	row += 1 
