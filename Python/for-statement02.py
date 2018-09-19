@@ -5,4 +5,4 @@ for letter in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
 		print(cont, letter, "is a vowel")
 	else:
 		cont += 1
-		print(cont, letter, "is a consonant")
+		print(cont, letter, "is a consonant") 
