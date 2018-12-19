@@ -1,9 +1,14 @@
 # Curso de Desenvolvimento Web
-<h4><em>O objetivo deste repositório é manter os projetos feitos durante o curso.</em></h4>
-O curso de <a href="https://www.udemy.com/web-completo/" target="_blank">Desenvolvimento Web</a> é oferecido pela Udemy. Conta com 20 projetos, tem duração de 101 horas e contém estas 20 seções:
+<p align="left">
+<em>"Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress e muito mais!</em><br>
+<em>Conheça o curso mais COMPLETO da Udemy, que reúne o <strong>Desenvolvimento Web front-end e back-end além de aplicações mobile</strong>, tudo na prática."</em>
+</p>
 <hr>
+<h4><em>O objetivo deste repositório é manter os projetos feitos durante o curso.</em></h4>
+O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a> é oferecido pela Udemy. Conta com 20 projetos, tem duração de 101 horas e contém estas 20 seções:
+
 <h3>1) HTML5</h3>
-- <a href="https://ricardo-fo.github.io/projetos/UNES/index.html" target="_blank">Projeto UNES</a> (Página institucional de uma universidade) - <strong>Finalizado</strong>
+- <a href="https://ricardo-fo.github.io/projetos/UNES/index.html">Projeto UNES</a> (Página institucional de uma universidade) - <strong>Finalizado</strong>
 
 <h3>2) CSS3</h3>
 - Projeto Anna Bella (Página web pessoal)
