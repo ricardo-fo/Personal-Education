@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Posicionamentos</title>
+		<meta charset="utf-8">
+		<style type="text/css">
+
+			body{
+				background: #007fc7;
+			}
+
+			#container{
+				background: #FFF;
+				width: 800px;
+				margin: 10px auto;
+				padding: 10px;
+				position: relative;
+			}
+
+			h1{
+				position: static;
+			}
+
+			p{
+				width: 300px;
+			}
+
+			.absolute{
+				border: 1px solid red;
+				background: #f2f2f2;
+				position: absolute;
+				top: 0px;
+				right: 20px;
+			}
+
+			.fixed{
+				border: 1px solid red;
+				background: #f2f2f2;
+				position: fixed;
+				top: 0px;
+				right: 0px;
+				margin: 0px;
+			}
+
+			.relative{
+				border: 1px solid red;
+				position: relative;
+				/*top, right, bottom, left*/
+				/*top: 0px;
+				left: 0px;
+				right: 20px;*/
+				bottom: -20px;
+			}
+
+		</style>
+	</head>
+	<body>
+
+		<div id="container">
+			
+			<h1>Posicionamentos</h1>
+			<p>P1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut. Purus in massa tempor nec feugiat nisl pretium fusce id. Nulla porttitor massa id neque. Dictum non consectetur a erat nam at lectus urna duis. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Magna ac placerat vestibulum lectus mauris ultrices eros. Commodo nulla facilisi nullam vehicula ipsum a. Facilisi nullam vehicula ipsum a. Semper risus in hendrerit gravida. Nullam non nisi est sit amet. Mi tempus imperdiet nulla malesuada pellentesque elit eget gravida cum. A erat nam at lectus urna. Dictum varius duis at consectetur lorem donec. Dignissim sodales ut eu sem integer vitae justo eget magna. Lacus suspendisse faucibus interdum posuere lorem ipsum. Ut pharetra sit amet aliquam id.</p>
+
+			<p class="fixed">P2 Gravida dictum fusce ut placerat orci. Dui nunc mattis enim ut tellus. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Tortor pretium viverra suspendisse potenti nullam ac tortor. Nullam eget felis eget nunc lobortis mattis aliquam. Ac felis donec et odio pellentesque diam volutpat. Aliquam ultrices sagittis orci a. A diam maecenas sed enim ut sem. Id donec ultrices tincidunt arcu. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Semper viverra nam libero justo.</p>
+
+			<p>P3 Id ornare arcu odio ut sem nulla pharetra diam. Nunc mattis enim ut tellus. Cursus sit amet dictum sit amet justo donec. Turpis massa sed elementum tempus egestas. Elementum integer enim neque volutpat. Nulla facilisi etiam dignissim diam quis enim lobortis. Amet nulla facilisi morbi tempus iaculis. Odio ut enim blandit volutpat maecenas. Euismod in pellentesque massa placerat duis ultricies lacus sed turpis. Neque aliquam vestibulum morbi blandit cursus.</p>
+
+		</div>
+
+	</body>
+</html>
