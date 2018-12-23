@@ -12,7 +12,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 
 <h3>2) CSS3</h3>
 - <a href="https://ricardo-fo.github.io/projetos/AnnaBella/index.html">Projeto Anna Bella</a> (Página web pessoal) - <strong>Finalizado</strong><br>
-- Projeto TecBlog (Blog de tecnologia)
+- <a href="https://ricardo-fo.github.io/projetos/TecBlog/index.html">Projeto TecBlog</a> (Blog de tecnologia) - <strong>Finalizado</strong>
 
 <h3>3) CSS3 Intermediário & avançado</h3>
 - Projeto Notícias da Cidade (Portal de notícias)
