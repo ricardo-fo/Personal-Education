@@ -15,7 +15,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 - <a href="https://ricardo-fo.github.io/projetos/TecBlog/index.html">Projeto TecBlog</a> (Blog de tecnologia) - <strong>Finalizado</strong>
 
 <h3>3) CSS3 Intermediário & avançado</h3>
-- Projeto Notícias da Cidade (Portal de notícias)
+- Projeto Notícias da Cidade (Portal de notícias)<br>
 - Projeto Chalé Hotel (Página publicitária)
 
 <h3>4) HTML5 e CSS3 - Recursos especiais</h3>
