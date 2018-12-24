@@ -15,7 +15,7 @@ ul a {
 	text-indent: 40px;
 	text-decoration: none;
 	color: #000;
-	background: url(imagens/menu.png) no-repeat left bottom;
+	background: url(../imagens/menu.png) no-repeat left bottom;
 }
 
 ul a:hover {
