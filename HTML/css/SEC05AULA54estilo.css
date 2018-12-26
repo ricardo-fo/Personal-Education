@@ -1,0 +1,34 @@
+/***************
+Barra de navegação lateral*/
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul a {
+	width: 200px;
+	height: 40px;
+	display: block;
+	line-height: 40px;
+	text-indent: 40px;
+	text-decoration: none;
+	color: #000;
+	background: #f7b600 url(../imagens/menu.png) no-repeat left bottom;
+}
+
+ul a:hover{
+	background-position: right bottom;
+	background-color: #f99200;
+	color: #FFF;
+}
+
+#home #navegacao .home a, 
+#sobre #navegacao .sobre a, 
+#servicos #navegacao .servicos a, 
+#noticias #navegacao .noticias a,
+#contato #navegacao .contato a {
+	background-position: right bottom;
+	background-color: #f99200;
+	color: #FFF;
+}
