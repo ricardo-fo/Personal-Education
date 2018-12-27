@@ -5,7 +5,7 @@
 </p>
 <hr>
 <h4><em>O objetivo deste repositório é manter os projetos feitos durante o curso.</em></h4>
-O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a> é oferecido pela Udemy. Conta com 20 projetos, tem duração de 101 horas, possui 540 aulas, e contém estas 20 seções:
+O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a> é oferecido pela Udemy. Conta com 20 projetos, tem duração de 103 horas, possui 543 aulas, e contém estas 20 seções:
 
 <h3>1) HTML5</h3>
 - <a href="https://ricardo-fo.github.io/projetos/UNES/index.html">Projeto UNES</a> (Página institucional de uma universidade) - <strong>Finalizado</strong>
@@ -15,7 +15,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 - <a href="https://ricardo-fo.github.io/projetos/TecBlog/index.html">Projeto TecBlog</a> (Blog de tecnologia) - <strong>Finalizado</strong>
 
 <h3>3) CSS3 Intermediário & avançado</h3>
-- Projeto Notícias da Cidade (Portal de notícias)<br>
+- <a href="https://ricardo-fo.github.io/projetos/Site-Noticias/index.html">Projeto Notícias da Cidade</a> (Portal de notícias)<br>
 - Projeto Chalé Hotel (Página publicitária)
 
 <h3>4) HTML5 e CSS3 - Recursos especiais</h3>
