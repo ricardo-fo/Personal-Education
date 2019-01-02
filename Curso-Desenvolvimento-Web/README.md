@@ -16,7 +16,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 
 <h3>3) CSS3 Intermediário & avançado</h3>
 - <a href="https://ricardo-fo.github.io/projetos/Site-Noticias/index.html">Projeto Notícias da Cidade</a> (Portal de notícias) -  <strong>Finalizado</strong><br>
-- Projeto Chalé Hotel (Página publicitária)
+- <a href="https://ricardo-fo.github.io/projetos/Chale-Hotel/">Projeto Chalé Hotel</a> (Página publicitária) - <strong>Finalizado</strong>
 
 <h3>4) HTML5 e CSS3 - Recursos especiais</h3>
 - Projeto Museu Nacional
