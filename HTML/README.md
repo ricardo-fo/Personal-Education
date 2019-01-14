@@ -1,1 +1,1 @@
-<h3>It's just studies.</h3>
+<h3>HTML, CSS, JavaScript etc. studies</h3>
