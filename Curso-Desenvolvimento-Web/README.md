@@ -8,22 +8,22 @@
 O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a> é oferecido pela Udemy. Conta com 20 projetos, tem duração de 103 horas, possui 543 aulas, e contém estas 20 seções:
 
 <h3>1) HTML5</h3>
-- <a href="https://ricardo-fo.github.io/projetos/UNES/index.html">Projeto UNES</a> (Página institucional de uma universidade) - <strong>Finalizado</strong>
+- <a href="https://ricardo-fo.github.io/projetos/UNES/">Projeto UNES</a> (Página institucional de uma universidade) - <strong>Finalizado</strong>
 
 <h3>2) CSS3</h3>
-- <a href="https://ricardo-fo.github.io/projetos/AnnaBella/index.html">Projeto Anna Bella</a> (Página web pessoal) - <strong>Finalizado</strong><br>
-- <a href="https://ricardo-fo.github.io/projetos/TecBlog/index.html">Projeto TecBlog</a> (Blog de tecnologia) - <strong>Finalizado</strong>
+- <a href="https://ricardo-fo.github.io/projetos/AnnaBella/">Projeto Anna Bella</a> (Página web pessoal) - <strong>Finalizado</strong><br>
+- <a href="https://ricardo-fo.github.io/projetos/TecBlog/">Projeto TecBlog</a> (Blog de tecnologia) - <strong>Finalizado</strong>
 
 <h3>3) CSS3 Intermediário & avançado</h3>
-- <a href="https://ricardo-fo.github.io/projetos/Site-Noticias/index.html">Projeto Notícias da Cidade</a> (Portal de notícias) -  <strong>Finalizado</strong><br>
+- <a href="https://ricardo-fo.github.io/projetos/Site-Noticias/">Projeto Notícias da Cidade</a> (Portal de notícias) -  <strong>Finalizado</strong><br>
 - <a href="https://ricardo-fo.github.io/projetos/Chale-Hotel/">Projeto Chalé Hotel</a> (Página publicitária) - <strong>Finalizado</strong>
 
 <h3>4) HTML5 e CSS3 - Recursos especiais</h3>
 - <a href="https://ricardo-fo.github.io/projetos/Museu-Nacional/">Projeto Museu Nacional</a> - <strong>Finalizado</strong>
 
 <h3>5) Bootstrap 4 & Design responsivo</h3>
-- <a href="https://ricardo-fo.github.io/projetos/Finans/index.html">Projeto Finans</a> - <strong>Finalizado</strong><br>
-- Spotify Clone
+- <a href="https://ricardo-fo.github.io/projetos/Finans/">Projeto Finans</a> - <strong>Finalizado</strong><br>
+- <a href="https://ricardo-fo.github.io/projetos/Spotify/">Spotify</a> <strong>Clone</strong> - <strong>Finalizado</strong>
 
 <h3>6) JavaScript</h3>
 - App Calculadora<br>
