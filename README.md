@@ -1,2 +1,3 @@
-# Personal-Education
-This repository is a storage of my studies, researches and tests.
+# Cursos Profissionalizantes
+
+Códigos-fonte feitos durante os cursos que realizei, exercícios, projetos etc. estão neste repositório.
