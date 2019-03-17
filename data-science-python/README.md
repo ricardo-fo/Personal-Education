@@ -4,10 +4,10 @@
 </blockquote>
 <hr>
 <br>
-<p>O curso <a href="https://cognitiveclass.ai/learn/data-science-with-python/">Applied Data Science with Python</a>, um conjunto de 3 outros cursos, é oferecido pela plataforma de ensino online <strong>Cognitive Class</strong>, IBM.
+<p>O curso <a href="https://cognitiveclass.ai/learn/data-science-with-python/" target="_blank">Applied Data Science with Python</a>, um conjunto de 3 outros cursos, é oferecido pela plataforma de ensino online <strong>Cognitive Class</strong>, IBM.
 São propostos exercícios e quizzes durante o decorrer do curso. Utiliza-se Jupyter Lab e Jupyter Notebook para resolução de exercícios.</p>
 
-<h3>1º - <a href="https://cognitiveclass.ai/courses/python-for-data-science/">Python for Data Science</a></h3>
+<h3>1º - <a href="https://cognitiveclass.ai/courses/python-for-data-science/" target="_blank">Python for Data Science</a></h3>
 <h6 title="duração">5 horas - Atualmente cursando</h6>
 
 <h4>Syllabus</h4>
@@ -48,7 +48,7 @@ São propostos exercícios e quizzes durante o decorrer do curso. Utiliza-se Jup
 	<li>Numpy 2D Arrays</li>
 </ul>
 <hr>
-<h3>2º - <a href="https://cognitiveclass.ai/courses/data-analysis-python/">Data Analysis with Python</a></h3>
+<h3>2º - <a href="https://cognitiveclass.ai/courses/data-analysis-python/" target="_blank">Data Analysis with Python</a></h3>
 <h6 title="duração">8 horas</h6>
 
 <h4>Syllabus</h4>
@@ -98,7 +98,7 @@ São propostos exercícios e quizzes durante o decorrer do curso. Utiliza-se Jup
 	<li>Model Refinement</li>
 </ul>
 <hr>
-<h3>3º - <a href="https://cognitiveclass.ai/courses/data-visualization-with-python/">Python for Data Science</a></h3>
+<h3>3º - <a href="https://cognitiveclass.ai/courses/data-visualization-with-python/" target="_blank">Python for Data Science</a></h3>
 <h6 title="duração">10 horas</h6>
 
 <h4>Syllabus</h4>
