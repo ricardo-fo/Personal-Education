@@ -1,13 +1,15 @@
 # Applied Data Science with Python
-<hr>
 <blockquote cite="https://cognitiveclass.ai/learn/data-science-with-python/">
-"In these data science courses, you�ll learn how to use the Python language to clean, analyze and visualize data. Through our guided lectures and labs, you�ll get hands-on experience tackling interesting data problems. This is an action-packed learning path for data science enthusiasts who want to work with real world problems using Python. Make sure to take this learning path to solidify your data skills in Python, before diving into machine learning, big data and deep learning in Python."
+"In these data science courses, you’ll learn how to use the Python language to clean, analyze and visualize data. Through our guided lectures and labs, you’ll get hands-on experience tackling interesting data problems. This is an action-packed learning path for data science enthusiasts who want to work with real world problems using Python. Make sure to take this learning path to solidify your data skills in Python, before diving into machine learning, big data and deep learning in Python."
 </blockquote>
 <hr>
 <br>
-<p>O <a href="https://cognitiveclass.ai/learn/data-science-with-python/">conjunto de 3 cursos</a> � oferecido pela plataforma <strong>Cognitive Class</strong>, IBM.</p>
+<p>O curso <a href="https://cognitiveclass.ai/learn/data-science-with-python/">Applied Data Science with Python</a>, um conjunto de 3 outros cursos, é oferecido pela plataforma de ensino online <strong>Cognitive Class</strong>, IBM.
+São propostos exercícios e quizzes durante o decorrer do curso. Utiliza-se Jupyter Lab e Jupyter Notebook para resolução de exercícios.</p>
 
-<h3>1� - <a href="https://cognitiveclass.ai/courses/python-for-data-science/">Python for Data Science</a></h3><span>5 horas - Atualmente cursando</span>
+<h3>1º - <a href="https://cognitiveclass.ai/courses/python-for-data-science/">Python for Data Science</a></h3>
+<h6 title="duração">5 horas - Atualmente cursando</h6>
+
 <h4>Syllabus</h4>
 <h5>Module 1 - Python Basics</h5>
 <ul>
@@ -45,8 +47,10 @@
 	<li>Numpy 1D Arrays</li>
 	<li>Numpy 2D Arrays</li>
 </ul>
-<br>
-<h3>2� - <a href="https://cognitiveclass.ai/courses/data-analysis-python/">Data Analysis with Python</a></h3><span>8 horas</span>
+<hr>
+<h3>2º - <a href="https://cognitiveclass.ai/courses/data-analysis-python/">Data Analysis with Python</a></h3>
+<h6 title="duração">8 horas</h6>
+
 <h4>Syllabus</h4>
 <h5>Module 1 - Importing Datasets</h5>
 <ul>
@@ -93,8 +97,10 @@
 	<li>Grid Search</li>
 	<li>Model Refinement</li>
 </ul>
-<br>
-<h3>3� - <a href="https://cognitiveclass.ai/courses/data-visualization-with-python/">Python for Data Science</a></h3><span>10 horas</span>
+<hr>
+<h3>3º - <a href="https://cognitiveclass.ai/courses/data-visualization-with-python/">Python for Data Science</a></h3>
+<h6 title="duração">10 horas</h6>
+
 <h4>Syllabus</h4>
 <h5>Module 1 - Introduction to Visualization Tools</h5>
 <ul>
