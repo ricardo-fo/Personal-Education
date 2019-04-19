@@ -1,0 +1,5 @@
+#To files and folders created by GHDL, Sigasi and GTKWave:
+*.project
+*.vcd
+library_mapping.xml
+.settings/
