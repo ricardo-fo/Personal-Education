@@ -27,7 +27,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 
 <h3>6) JavaScript</h3>
 - <a href="https://ricardo-fo.github.io/projetos/Calculadora/">App Calculadora</a> - <strong>Finalizado</strong><br>
-- App Game Mata Mosquito (Um game sensacional que vai desafiar seus conhecimentos de lógica de programação)
+- App Game Mata Mosquito
 
 <h3>7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos</h3>
 - App Orçamento Pessoal (App para controle pessoal de finanças)
