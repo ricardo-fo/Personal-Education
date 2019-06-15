@@ -14,14 +14,14 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 - <a href="https://ricardo-fo.github.io/projetos/AnnaBella/">Projeto Anna Bella</a> (Página web pessoal) - <strong>Finalizado</strong><br>
 - <a href="https://ricardo-fo.github.io/projetos/TecBlog/">Projeto TecBlog</a> (Blog de tecnologia) - <strong>Finalizado</strong>
 
-<h3>3) CSS3 Intermediário & avançado</h3>
+<h3>3) CSS3 Intermediário e avançado</h3>
 - <a href="https://ricardo-fo.github.io/projetos/Site-Noticias/">Projeto Notícias da Cidade</a> (Portal de notícias) -  <strong>Finalizado</strong><br>
 - <a href="https://ricardo-fo.github.io/projetos/Chale-Hotel/">Projeto Chalé Hotel</a> (Página publicitária) - <strong>Finalizado</strong>
 
 <h3>4) HTML5 e CSS3 - Recursos especiais</h3>
 - <a href="https://ricardo-fo.github.io/projetos/Museu-Nacional/">Projeto Museu Nacional</a> - <strong>Finalizado</strong>
 
-<h3>5) Bootstrap 4 & Design responsivo</h3>
+<h3>5) Bootstrap 4 e Design responsivo</h3>
 - <a href="https://ricardo-fo.github.io/projetos/Finans/">Projeto Finans</a> - <strong>Finalizado</strong><br>
 - <a href="https://ricardo-fo.github.io/projetos/Spotify/">Spotify Clone</a> - <strong>Finalizado</strong>
 
@@ -58,17 +58,15 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 <h3>16) Padrão de arquitetura MVC com PHP</h3>
 - Projeto miniframework (Criação de um miniframework baseado na arquitetura MVC)
 
-<h3>17) PHP 7 & MySQL - Projeto aplicado Twitter Clone</h3>
+<h3>17) PHP 7 e MySQL</h3>
 - Projeto Twitter Clone
 
 <h3>18) API com Slim Framework</h3>
+- Projeto API de Produtos
 
-<h3>19) Introdução ao Wordpress (criação de blogs)</h3>
-- Projeto 10 minutos exercícios
+<h3>19) SASS</h3>
 
-<h3>20) SASS</h3>
-
-<h3>21) Extra - Criando aplicações Mobile com IONIC</h3>
+<h3>20) Aplicações Mobile com IONIC</h3>
 - Projeto Gasolina ou Álcool
 
-<h3>22) Wordpress</h3>
+<h3>21) Wordpress</h3>
