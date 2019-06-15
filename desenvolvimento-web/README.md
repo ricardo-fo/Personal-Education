@@ -23,7 +23,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 
 <h3>5) Bootstrap 4 & Design responsivo</h3>
 - <a href="https://ricardo-fo.github.io/projetos/Finans/">Projeto Finans</a> - <strong>Finalizado</strong><br>
-- <a href="https://ricardo-fo.github.io/projetos/Spotify/">Spotify</a> <strong>Clone</strong> - <strong>Finalizado</strong>
+- <a href="https://ricardo-fo.github.io/projetos/Spotify/">Spotify Clone</a> - <strong>Finalizado</strong>
 
 <h3>6) JavaScript</h3>
 - <a href="https://ricardo-fo.github.io/projetos/Calculadora/">App Calculadora</a> - <strong>Finalizado</strong><br>
