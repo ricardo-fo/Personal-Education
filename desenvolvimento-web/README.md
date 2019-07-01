@@ -35,7 +35,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 <h3>8) Iniciando com servidor Apache, PHP e MySQL</h3>
 
 <h3>9) PHP 7</h3>
-- App Help Desk (App para abertura e acompanhamento de suportes técnicos)
+- <a href="https://github.com/ricardo-fo/cursos/tree/master/desenvolvimento-web/App_Help_Desk">App Help Desk (App para abertura e acompanhamento de suportes técnicos)</a> - <strong>Finalizado</strong><br>
 
 <h3>10) PHP 7 e Orientação a Objetos</h3>
 - App Send Mail (App para criação e envio de e-mails)
