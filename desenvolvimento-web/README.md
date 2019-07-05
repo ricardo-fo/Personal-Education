@@ -38,7 +38,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 - <a href="https://github.com/ricardo-fo/cursos/tree/master/desenvolvimento-web/App_Help_Desk">App Help Desk (App para abertura e acompanhamento de suportes técnicos)</a> - <strong>Finalizado</strong><br>
 
 <h3>10) PHP 7 e Orientação a Objetos</h3>
-- App Send Mail (App para criação e envio de e-mails)
+- <a href="https://github.com/ricardo-fo/cursos/tree/master/desenvolvimento-web/app_send_mail">App Send Mail (App para criação e envio de e-mails) </a> - <strong>Finalizado</strong><br>
 
 <h3>11) Banco de dados MySQL</h3>
 - Projeto Banco de Dados Loja Virtual (Implementação do banco de dados de uma loja virtual)
