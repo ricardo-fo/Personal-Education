@@ -45,7 +45,7 @@
 	// Verifica se o envio está apto para ser enviado.
 	if(!$mensagem->mensagemValida()){
 		echo 'Mensagem inválida';
-		header('Location: ../index.php');
+		header('Location: ../index.html');
 	}
 
 	// Objeto para o envio do e-mail.
@@ -114,14 +114,14 @@
 						<div class="container">
 							<h1 class="display-4 text-success">Sucesso</h1>
 							<p><?= $mensagem->status['descricao_status'] ?></p>
-							<a href="../index.php" class="btn btn-success btn-lg mt-5 text-white">Voltar</a>
+							<a href="../index.html" class="btn btn-success btn-lg mt-5 text-white">Voltar</a>
 						</div>
 					<?php }?>
 					<?php if($mensagem->status['codigo_status'] == 2) { ?>
 						<div class="container">
 							<h1 class="display-4 text-danger">Ops!</h1>
 							<p><?= $mensagem->status['descricao_status'] ?></p>
-							<a href="../index.php" class="btn btn-danger btn-lg mt-5 text-white">Voltar</a>
+							<a href="../index.html" class="btn btn-danger btn-lg mt-5 text-white">Voltar</a>
 						</div>
 					<?php }?>
 				</div>
