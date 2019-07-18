@@ -41,7 +41,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 - <a href="https://github.com/ricardo-fo/cursos/tree/master/desenvolvimento-web/app_send_mail">App Send Mail (App para criação e envio de e-mails) </a> - <strong>Finalizado</strong><br>
 
 <h3>11) Banco de dados MySQL</h3>
-- Projeto Banco de Dados Loja Virtual (Implementação do banco de dados de uma loja virtual)
+- <a href="#">Projeto Banco de Dados Loja Virtual (Implementação do banco de dados de uma loja virtual)</a> - <strong>Finalizado</strong><br>
 
 <h3>12) Ajax</h3>
 - App Pesquisa Endereço (Aprenda a realizar requisições HTTP via XMLHttpRequest para API's)
