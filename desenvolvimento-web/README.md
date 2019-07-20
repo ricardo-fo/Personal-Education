@@ -38,13 +38,13 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 - <a href="https://github.com/ricardo-fo/cursos/tree/master/desenvolvimento-web/App_Help_Desk">App Help Desk (App para abertura e acompanhamento de suportes técnicos)</a> - <strong>Finalizado</strong><br>
 
 <h3>10) PHP 7 e Orientação a Objetos</h3>
-- <a href="https://github.com/ricardo-fo/cursos/tree/master/desenvolvimento-web/app_send_mail">App Send Mail (App para criação e envio de e-mails) </a> - <strong>Finalizado</strong><br>
+- <a href="https://github.com/ricardo-fo/cursos/tree/master/desenvolvimento-web/app_send_mail">App Send Mail (App para criação e envio de e-mails)</a> - <strong>Finalizado</strong><br>
 
 <h3>11) Banco de dados MySQL</h3>
 - <a href="#">Projeto Banco de Dados Loja Virtual (Implementação do banco de dados de uma loja virtual)</a> - <strong>Finalizado</strong><br>
 
 <h3>12) Ajax</h3>
-- App Pesquisa Endereço (Aprenda a realizar requisições HTTP via XMLHttpRequest para API's)
+- <a href="https://ricardo-fo.github.io/projetos/pesquisa_endereco/">App Pesquisa Endereço (Aprenda a realizar requisições HTTP via XMLHttpRequest para API's)</a> - <strong>Finalizado</strong><br>
 
 <h3>13) PHP com PDO</h3>
 - App Lista de Tarefas (PHP com PDO e MySQL)
