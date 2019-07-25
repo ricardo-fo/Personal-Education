@@ -47,7 +47,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 - <a href="https://ricardo-fo.github.io/projetos/pesquisa_endereco/">App Pesquisa Endereço (Aprenda a realizar requisições HTTP via XMLHttpRequest para API's)</a> - <strong>Finalizado</strong><br>
 
 <h3>13) PHP com PDO</h3>
-- App Lista de Tarefas (PHP com PDO e MySQL)
+- <a href="https://github.com/ricardo-fo/cursos/tree/master/desenvolvimento-web/app_lista_tarefas">App Lista de Tarefas (PHP com PDO e MySQL)</a> - <strong>Finalizado</strong><br>
 
 <h3>14) Publicação de aplicações Web na Internet</h3>
 - Publicação de aplicações web (PHP e MySQL) utilizando o InfintyFree
