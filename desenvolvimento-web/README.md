@@ -50,7 +50,7 @@ O curso de <a href="https://www.udemy.com/web-completo/">Desenvolvimento Web</a>
 - <a href="http://lista-tarefas.epizy.com">App Lista de Tarefas (PHP com PDO e MySQL)</a> - <strong>Finalizado</strong><br>
 
 <h3>14) Publicação de aplicações Web na Internet</h3>
-- Publicação de aplicações web (PHP e MySQL) utilizando o InfintyFree
+- <a href="http://lista-tarefas.epizy.com">Publicação de aplicações web (PHP e MySQL) utilizando o InfintyFree</a> - <strong>Finalizado</strong><br>
 
 <h3>15) JQuery</h3>
 - App Dashboard (Criação de um dashboard integrando front-end, back-end e banco de dados)
